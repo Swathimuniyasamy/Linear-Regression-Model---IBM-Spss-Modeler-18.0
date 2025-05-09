@@ -1,7 +1,9 @@
 Overview
+
 This project demonstrates the use of IBM SPSS Modeler 18.0 to create a linear regression model. The model predicts the target variable (dependent variable) based on one or more predictor variables (independent variables). This README provides an overview of the steps taken to create and evaluate the model, as well as how to interpret the results.
 
 Prerequisites
+
 IBM SPSS Modeler 18.0 installed
 
 A dataset suitable for linear regression modeling
@@ -9,6 +11,7 @@ A dataset suitable for linear regression modeling
 Basic understanding of linear regression and statistical analysis
 
 Dataset
+
 The dataset used in this project contains both numeric and categorical variables. It includes the following columns:
 
 Dependent Variable: The target variable (e.g., "Sales", "Price", etc.).
@@ -16,6 +19,7 @@ Dependent Variable: The target variable (e.g., "Sales", "Price", etc.).
 Independent Variables: Predictor variables used to model the dependent variable (e.g., "Advertising Budget", "Years of Experience", etc.).
 
 Steps to Build the Model
+
 Import Data:
 
 Load the dataset into IBM SPSS Modeler using the File > Import option.
